@@ -1,0 +1,41 @@
+  .notice {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 200%;
+    transition:background-color 0.3s;
+  }
+
+  .notice_div {
+    background: white;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+    padding: 20px;
+  }
+
+  .heading_div_button {
+    font-size: 18px;
+  }
+
+  .devansh {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    transition:background-color 0.3s;
+  }
+
+  .devansh span {
+    white-space: pre-line;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    background-color:rgb(115, 255, 0);
+    width: 100%;
+    color: coral;
+    font-size: 30px;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+  }
